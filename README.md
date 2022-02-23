@@ -10,8 +10,8 @@ A simple COBOL program to track donations and create a report based on said dona
 * Run the binaries to hearts content!
 
 ### Examples
-Record:
+Record: \
 ![record](media/record.png)
 
-Report (Ignore errors `:)` ):
+Report (Ignore errors `:)` ): \
 ![report](media/report.png)
